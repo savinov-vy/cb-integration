@@ -1,0 +1,8 @@
+server:
+  port: 8082
+
+integration:
+  client:
+    cbUrl: "https://www.cbr.ru/scripts/XML_daily.asp"
+    paramName: date_req
+    datePattern: dd/MM/yyyy

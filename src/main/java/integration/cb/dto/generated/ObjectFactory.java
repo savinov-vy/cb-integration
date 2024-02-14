@@ -6,7 +6,7 @@
 //
 
 
-package generated;
+package integration.cb.dto.generated;
 
 import jakarta.xml.bind.annotation.XmlRegistry;
 
